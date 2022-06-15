@@ -150,6 +150,10 @@ while True:
         break
     elif your_HP <= 0:
         print('Троль убил тебя. Ты умер смертью героя')
+        
+        
+        
+print("ghkghkghk")
         break
     else:
         print('------------------------------')
